@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Food"
+        android:id = "@+id/food"
+        android:icon = "@drawable/ic_launcher_background"/>
+
+    <item android:title="Edu"
+
+        android:id = "@+id/edu"
+        android:icon = "@drawable/baseline_9k_plus_24"/>
+    <item android:title="Perf"
+
+        android:id = "@+id/perf"
+        android:icon = "@drawable/baseline_add_alarm_24"/>
+</menu>
